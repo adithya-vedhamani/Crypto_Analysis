@@ -65,6 +65,11 @@ https://user-images.githubusercontent.com/73640313/211516757-cb1b4165-d189-457f-
 ### Demo 3
 https://user-images.githubusercontent.com/73640313/211516909-9998e12e-bca3-4905-8689-91924663ec6b.mp4
 
+### How to run
+yarn
+yarn dev
+
+
 
 
 
