@@ -69,7 +69,8 @@ https://user-images.githubusercontent.com/73640313/211516909-9998e12e-bca3-4905-
 yarn
 yarn dev
 
-
+### PPT
+[CRYPTO.pdf](https://github.com/adithya-vedhamani/Crypto_Analysis/files/10381789/CRYPTO.pdf)
 
 
 
