@@ -1,0 +1,100 @@
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  --app-width: 1600px;
+  --clr-contrast: #fc8e06;
+  --clr-accent: #fc8e06;
+  --clr-accent1: #1962a1;
+  --clr-accent2: #577399;
+  --clr-bg: #f7f7ff;
+  --clr-font: #242424;
+  --clr-fontAccent: #6B7280;
+  --clr-shadow: #808080;
+  --clr-row: #F9FAFB;
+  --clr-hr: #6B7280;
+  --clr-loss: #EA3943;
+  --clr-gain: #16C784;
+  --clr-logo: #fc8e06;
+  --clr-btn: #3459E7;
+  --clr-link: #6188ff;
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  background-color: black;
+  height: 100vh;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  cursor: pointer;
+}
+button:active {
+  border: none;
+}
+
+.App {
+  background-color: var(--clr-bg);
+  color: var(--clr-font);
+  font-size: 16px;
+  font-weight: 600;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  height: 100vh;
+  min-height: 1000px;
+  /* overflow: hidden; */
+  }
+
+
+.right {
+  text-align: right;
+}
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+
+
+.flex {
+  gap: .5em;
+  display: flex;
+}
+
+.subheader {
+  font-weight: 600;
+  font-size: 1.4rem;
+}
+
+.inline {
+  display: inline;
+}
+.gap {
+  width: 1em;
+}
+
+
+input, select {
+  font-size: inherit;
+  font-weight: inherit;
+}
