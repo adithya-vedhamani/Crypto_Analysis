@@ -5,7 +5,7 @@ Cryptocurrency data for over 13,000 cryptocurrencies, Modeled after CoinMarketCa
 
 Predicting the future is no easy task. Many have tried and many have failed. But many of us would want to know what will happen next and would go to great lengths to figure that out. Imagine the possibilities of knowing what will happen in the future! Imagine what you would have done back in 2012 when Bitcoin was less than $15 knowing that it would surpass $18,000! Many people may regret not buying Bitcoin back then but how were they supposed to know in the first place? This is the dilemma we now face regarding Cryptocurrency. We do not want to miss out on the next jump in price, but we do not know when that will or will not happen. So how can we potentially solve this dilemma?
 
-### need for Crytocurrency Analysis
+### Need for Crytocurrency Analysis
 
 Cryptocurrency analysis is the process of studying the various aspects of a cryptocurrency in order to determine its value and potential for growth. This includes analyzing the cryptocurrency's technology, its market trends, and its competitors.
 There are several reasons why cryptocurrency analysis is important. First, it helps investors make informed decisions about whether to buy or sell a particular cryptocurrency. By analyzing a cryptocurrency's technology, market trends, and competition, investors can get a better understanding of its potential for growth and determine whether it is a good investment.
